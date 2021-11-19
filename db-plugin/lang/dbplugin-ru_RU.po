@@ -1,0 +1,97 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DB-Plugin\n"
+"POT-Creation-Date: 2021-09-21 12:59+0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Myname <myemail@gmail.com>\n"
+"Language-Team: My Super Team\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_attr_e;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: node_modules\n"
+
+#: class/list-table-class.php:41
+msgid "ID"
+msgstr "ИД"
+
+#: class/list-table-class.php:42
+msgid "Name"
+msgstr "Название"
+
+#: class/list-table-class.php:43
+msgid "City"
+msgstr "Город"
+
+#: class/list-table-class.php:44
+msgid "State"
+msgstr "Штат"
+
+#: class/list-table-class.php:45
+msgid "Stadium"
+msgstr "Стадион"
+
+#: class/list-table-class.php:46
+msgid "Action"
+msgstr ""
+
+#: includes/actions.php:9 includes/actions.php:10
+msgid "DB Plugin"
+msgstr ""
+
+#: includes/actions.php:51 includes/actions.php:52
+msgid "Add data"
+msgstr "Добавить данные"
+
+#: includes/actions.php:94 includes/actions.php:95 includes/actions.php:154
+#: includes/actions.php:155
+msgid "Edit data"
+msgstr "Редактировать данные"
+
+#: template/add-data.php:1
+msgid "Add data to DataBase tables"
+msgstr "Добавить данные в базу данных"
+
+#: template/add-data.php:5 template/edit-data.php:7
+msgid "Team Name"
+msgstr "Название команды"
+
+#: template/add-data.php:7 template/edit-data.php:9
+msgid "Team City"
+msgstr "Город команды"
+
+#: template/add-data.php:9 template/edit-data.php:11
+msgid "Team State"
+msgstr "Штат команды"
+
+#: template/add-data.php:11 template/edit-data.php:13
+msgid "Team Stadium"
+msgstr "Стадион команды"
+
+#: template/add-data.php:12
+msgid "add row to DB"
+msgstr "Добавить к БД"
+
+#: template/add-data.php:18
+msgid "New row saved!"
+msgstr "Новые данные сохранены!"
+
+#: template/edit-data.php:5
+msgid "Team ID"
+msgstr "ИД команды"
+
+#: template/edit-data.php:14
+msgid "Save"
+msgstr "Сохранить"
+
+#: template/edit-data.php:19
+msgid "saved!"
+msgstr "Сохранено!"
