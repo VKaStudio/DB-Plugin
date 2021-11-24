@@ -1,4 +1,4 @@
-# DB Plugin
+# SportsTeamsManagement
 
 Contributor: Viktor Konopelko
 Stable tag:  1.0
